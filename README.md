@@ -1,0 +1,2 @@
+# E-Commerce-User-Behavior-Analysis-Conversion-Insights-SQL-Power-BI-HTML-Dashboard-
+A complete end-to-end data analysis project focused on understanding user behavior and improving conversion rates in an e-commerce environment.  This project uses SQL Server for data cleaning, transformation, and analysis, followed by interactive dashboard creation using Power BI and  HTML dashboard for better accessibility and user experience.
